@@ -1,2 +1,2 @@
-''Dublin Core (DC) Online Cataloguing Tool
+#Dublin Core (DC) Online Cataloguing Tool
 
