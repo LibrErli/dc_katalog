@@ -1,4 +1,4 @@
-#Dublin Core (DC) Online Cataloguing Tool
+'Dublin Core (DC) Online Cataloguing Tool
 
 1. Download all files
 2. Unpack jquery.rar into diretory /jquery
