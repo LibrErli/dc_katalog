@@ -177,7 +177,7 @@ if (isset($_GET['edit_id'])){
 			<td>Originaldatei:</td>
 			<td><input type='text' id='txtSelectedFile'  name='file_name[]' style='cursor:pointer; width:500px;' value='".$row_files['file']."' onclick='openCustomRoxy2()' title='Hier klicken, um Originaldatei hochzuladen und auszuw&auml;hlen!'>
 	<div id='roxyCustomPanel2' style='display: none;'>
-	  <iframe src='../jquery/fileman/index.html?integration=custom&type=files&txtFieldId=txtSelectedFile' style='width:100%;height:100%' frameborder='0'>
+	  <iframe src='jquery/fileman/index.html?integration=custom&type=files&txtFieldId=txtSelectedFile' style='width:100%;height:100%' frameborder='0'>
 	  </iframe>
 	</div></td>
 			<td></td>
@@ -195,7 +195,7 @@ if (isset($_GET['edit_id'])){
 			<td>Originaldatei:</td>
 			<td><input type='text' id='txtSelectedFile'  name='file_name[]' style='cursor:pointer; width:500px;' value='Hier klicken, um Originaldatei hochzuladen und auszuw&auml;hlen!' onclick='openCustomRoxy2()' title='Hier klicken, um Originaldatei hochzuladen und auszuw&auml;hlen!'>
 	<div id='roxyCustomPanel2' style='display: none;'>
-	  <iframe src='../jquery/fileman/index.html?integration=custom&type=files&txtFieldId=txtSelectedFile' style='width:100%;height:100%' frameborder='0'>
+	  <iframe src='jquery/fileman/index.html?integration=custom&type=files&txtFieldId=txtSelectedFile' style='width:100%;height:100%' frameborder='0'>
 	  </iframe>
 	</div></td>
 			<td></td>
